@@ -1,5 +1,6 @@
 pin = "4567"
 Amount = 10000
+
 while True:
     wrong = 0
     while True:
